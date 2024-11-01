@@ -1,0 +1,22 @@
+{
+  "name": "phil-go-dark",
+  "displayName": "phil-go-dark",
+  "description": "",
+  "version": "0.0.1",
+  "repository": "https://github.com/phpeterson-usf/phil-go-dark.git",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Phil Go Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Phil Go Dark-color-theme.json"
+      }
+    ]
+  }
+}
